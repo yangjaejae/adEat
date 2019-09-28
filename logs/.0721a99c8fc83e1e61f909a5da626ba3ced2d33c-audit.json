@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "logs\\.0721a99c8fc83e1e61f909a5da626ba3ced2d33c-audit.json",
+    "files": [
+        {
+            "date": 1569658690656,
+            "name": "logs\\eos_api_2019-09-28.log",
+            "hash": "0d27fdf4ebb772537094a207b5e88bc5"
+        }
+    ]
+}
