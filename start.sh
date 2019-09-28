@@ -1,6 +1,6 @@
 #!/bin/bash
-DOCKER_CONTAINER_NAME="asEat"
-DOCKER_ADEAT_IMAGE_NAME="adEat/nodejs"
+DOCKER_CONTAINER_NAME="adeat"
+DOCKER_ADEAT_IMAGE_NAME="adeat/nodejs"
 DOCKER_ADEAT_IMAGE_TAG="v1.0.0"
 COMPOSE_FILE=docker-compose.yaml
 echo "start asEat Server"
